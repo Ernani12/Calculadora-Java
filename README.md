@@ -1,4 +1,4 @@
-Calculadora Feita em   Java Utilizando Pilha e  Fila,
+Java Calculadora  Utilizando Pilha e  Fila,
 Notaçao de expressoes operadores soma, sub, divisao  e multiplicacao
 Ordem em Prenteses 
 
